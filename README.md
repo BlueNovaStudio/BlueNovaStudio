@@ -64,8 +64,6 @@ Passionate about technology, programming, and building projects step by step.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueNovaStudio&layout=compact&theme=tokyonight" height="250"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueNovaStudio&layout=compact)
-
 </div>
 
 ---
