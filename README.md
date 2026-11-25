@@ -46,9 +46,10 @@
 
 ## 📬 Contacto
 
+- Sitio web: [BlueNova Studio](https://TU-SITIO-WEB)
+- TikTok: [@bluenovastudio.dev](https://www.tiktok.com/@bluenovastudio.dev)
 - GitHub: [@BlueNovaStudio](https://github.com/BlueNovaStudio)
 - Correo: [bluenovastudio.dev@gmail.com](mailto:bluenovastudio.dev@gmail.com)
-
 ---
 
 <div align="center">⭐ ¡Gracias por visitar mi perfil! ⭐</div>
