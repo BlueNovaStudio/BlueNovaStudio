@@ -46,7 +46,7 @@
 
 ## 📬 Contacto
 
-- Sitio web: [BlueNova Studio](https://TU-SITIO-WEB)
+- Sitio web: [Nexis Lang](https://nexis-75130.web.app)
 - TikTok: [@bluenovastudio.dev](https://www.tiktok.com/@bluenovastudio.dev)
 - GitHub: [@BlueNovaStudio](https://github.com/BlueNovaStudio)
 - Correo: [bluenovastudio.dev@gmail.com](mailto:bluenovastudio.dev@gmail.com)
